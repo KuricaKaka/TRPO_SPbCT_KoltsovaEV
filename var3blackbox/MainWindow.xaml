@@ -1,0 +1,25 @@
+﻿<Window x:Class="var3blackbox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:var3blackbox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="334.719" Width="480.45">
+    <Grid>
+        <TextBox x:Name="tx1" HorizontalAlignment="Left" Height="29" Margin="15,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="ty1" HorizontalAlignment="Left" Height="29" Margin="97,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="tx2" HorizontalAlignment="Left" Height="29" Margin="292,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="ty2" HorizontalAlignment="Left" Height="29" Margin="374,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="tx3" HorizontalAlignment="Left" Height="29" Margin="292,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="ty3" HorizontalAlignment="Left" Height="29" Margin="374,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="tx4" HorizontalAlignment="Left" Height="29" Margin="15,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <TextBox x:Name="ty4" HorizontalAlignment="Left" Height="29" Margin="97,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="77"/>
+        <Label Content="Первая вершина" HorizontalAlignment="Left" Margin="15,47,0,0" VerticalAlignment="Top"/>
+        <Label Content="Вторая вершина" HorizontalAlignment="Left" Margin="292,47,0,0" VerticalAlignment="Top"/>
+        <Label Content="Четвёртая вершина" HorizontalAlignment="Left" Margin="15,145,0,0" VerticalAlignment="Top"/>
+        <Label Content="Третья вершина" HorizontalAlignment="Left" Margin="292,145,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="b1" Content="Узнать что за четырёхугольник" HorizontalAlignment="Left" Margin="125,232,0,0" VerticalAlignment="Top" Width="224" Height="34" Click="b1_Click"/>
+
+    </Grid>
+</Window>

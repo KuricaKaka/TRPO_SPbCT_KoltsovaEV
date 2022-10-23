@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\var2blackbox\bin\Debug\var2blackbox.exe.config
+C:\Users\Администратор\source\repos\var2blackbox\bin\Debug\var2blackbox.exe
+C:\Users\Администратор\source\repos\var2blackbox\bin\Debug\var2blackbox.pdb
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox_MarkupCompile.cache
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox_MarkupCompile.lref
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox.g.resources
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox.Properties.Resources.resources
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox.exe
+C:\Users\Администратор\source\repos\var2blackbox\obj\Debug\var2blackbox.pdb

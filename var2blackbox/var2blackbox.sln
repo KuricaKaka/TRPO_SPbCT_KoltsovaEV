@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "var2blackbox", "var2blackbox.csproj", "{0515D199-E2E1-4BFD-9A99-C23FAA3C9B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0515D199-E2E1-4BFD-9A99-C23FAA3C9B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0515D199-E2E1-4BFD-9A99-C23FAA3C9B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0515D199-E2E1-4BFD-9A99-C23FAA3C9B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0515D199-E2E1-4BFD-9A99-C23FAA3C9B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F5FEFF-3136-4A2B-BD71-F563C1716785}
+	EndGlobalSection
+EndGlobal
